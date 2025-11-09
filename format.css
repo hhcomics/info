@@ -1,0 +1,31 @@
+body{
+    background-color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+section{
+    text-align: left;
+    width: 60%;
+    margin: auto;
+}
+.main{
+    width: 50%;
+    margin: auto;
+    background-color: white;
+    border: white;
+    border-style: solid;
+    border-radius: 1dvh;
+    text-align: center;
+}
+.lang{
+    text-align: right;
+}
+.skepna-img{
+    height: 50vh;
+}
+.art-img{
+    height: 30vh;
+}
