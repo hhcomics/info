@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(142, 255, 67);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
+h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 0px 0px 1vh orangered;
+    font-size: 5vh;
+}
+section{
+    text-align: left;
+    width: 80vmin;
+    margin: auto;
+}
+.main{
+    width: 90vmin;
+    margin: auto;
+    background-color: white;
+    border: white;
+    border-style: solid;
+    border-radius: 1dvh;
+    text-align: center;
+    box-shadow: 0vh 1vh 1vh black;
+}
+.lang{
+    text-align: right;
+}
+.navbar{
+    width: 80vmin;
+    margin:auto;
+    text-shadow: 1px 1px 1px rgb(223, 152, 0);
+}
+.skepna-img{
+    height: 50vh;
+}
+.art-img{
+    height: 30vh;
+}
+.eng{
+    display: none;
+}
+a:link{
+    color: orangered;
+}
+a:visited{
+    color: orangered;
+}
+a:hover{
+    opacity: 70%;
+}
+a:active{
+    opacity: 60%;
+}
+.posts{
+    background-color: lightgray;
+    border: lightgray;
+    border-style: solid;
+    border-radius: 1dvb;
+    text-align: left;
+    font-style: italic;
+}
+
